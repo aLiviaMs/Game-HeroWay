@@ -13,6 +13,15 @@ function createBoard() {
     const boardElement = document.getElementById('board');
     const elements = [];
 
+    //Page Reload
+    const buttonReset = document.getElementById("reset");
+    buttonReset.onclick = function () {
+        location.reload();
+    };
+
+
+
+
     function createElement(options) {
         let { item, top, left } = options;
 
@@ -123,6 +132,7 @@ function createBoard() {
 
         document.addEventListener('keydown', (event) => {
             hero.move(event.key);
+
         });
     }
 
