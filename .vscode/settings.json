@@ -1,4 +1,5 @@
 {
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "liveServer.settings.port": 5501
 }
