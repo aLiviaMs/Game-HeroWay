@@ -9,7 +9,7 @@ The Hero-Way game was developed using JavaScript, to evolve and learn more about
 
 The game consists of the hero dodging enemies and rescuing the treasure chest.
 
-<p> Preview </p>
+<h1> Preview </h1>
 <img src="video/GameHero-Way.gif"/>
 
 ## 📝 License
