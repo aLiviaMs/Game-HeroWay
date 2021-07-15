@@ -1,5 +1,6 @@
 # Game Hero-Way
 
+
 ## 🚀 Why I developed this application
 
 The Hero-Way game was developed using JavaScript, to evolve and learn more about the programming language, improving my programming logic skills and getting to know more features of JS.
@@ -7,6 +8,9 @@ The Hero-Way game was developed using JavaScript, to evolve and learn more about
 ## 💻 Project
 
 The game consists of the hero dodging enemies and rescuing the treasure chest.
+
+<h1>Preview</h1>
+<img src="video/GameHero-Way.gif"/>
 
 ## 📝 License
 
